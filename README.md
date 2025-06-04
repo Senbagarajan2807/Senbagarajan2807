@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Senbagarajan
 
 🎓 I'm a **First-Year Computer Science Engineering student** at **Government College of Engineering, Tirunelveli**.  
-💻 I'm currently learning **C programming**, **Data Structures**, and **Git/GitHub**.  
+💻 I'm currently learning **C programming**, **Data Structures**, and **Git/GitHub**,**Python**,**AI/ML**  
 🚀 I'm passionate about becoming a great **Software Developer** and contributing to open-source projects in the future.
 
 ---
@@ -28,7 +28,7 @@
 
 ### 📫 Reach Me At:
 - 📧 **senbagarajans2807@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 💼 [LinkedIn](linkedin.com/in/senbagarajan-s)
 
 ---
 
