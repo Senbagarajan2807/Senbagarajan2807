@@ -28,7 +28,8 @@
 
 ### 📫 Reach Me At:
 - 📧 **senbagarajans2807@gmail.com**
-- 💼 [LinkedIn](linkedin.com/in/senbagarajan-s)
+- 💼 [LinkedIn](https://www.linkedin.com/in/senbagarajan-s)
+
 
 ---
 
