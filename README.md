@@ -1,64 +1,93 @@
-# 👋 Hi, I'm Senbagarajan
+<div align="center">
 
-🎓 I'm a **Second-Year Computer Science Engineering student** at **Government College of Engineering, Tirunelveli**.  
-🚀 I'm passionate about becoming a skilled **Software Developer** and contributing to **open-source** projects.
+# 👋 Hey, I'm **Senbagarajan S**
 
----
+🎓 **Second-Year Computer Science Engineering Student**  
+🏫 Government College of Engineering, Tirunelveli  
 
-## 📚 What I’m Working On
- 
-- 🧠 Practicing **Data Structures and Algorithms (DSA)**  
-- 🚧 Learning Git and GitHub through hands-on projects  
-- 🧪 Exploring **Python** and beginner-level **AI/ML** concepts  
-- 🌱 Planning to build and host my own portfolio website soon
+🚀 Aspiring **Software Developer | Backend Engineer | AI Enthusiast**
+
+</div>
 
 ---
 
-## 🌐 Languages I Know
+## 🚀 About Me
 
+- 💻 Strong interest in **Backend Development & API Design**
+- 🧠 Actively learning and applying **AI, ML, DL, GenAI & NLP**
+- 🔁 Regularly practicing **DSA** for product-based companies
+- 🌱 Building real-world projects with **Spring Boot & Python**
+- 🤝 Open to **internships, collaborations & open-source**
+
+---
+
+## 🧠 Tech Stack & Skills
+
+### 👨‍💻 Programming & Web
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+</p>
+
+<p align="center"><b>Spring • Spring Boot • REST APIs</b></p>
+
+### 🤖 AI / ML / Data
+<p align="center">
+  🧠 Machine Learning &nbsp; | &nbsp; 🤖 Deep Learning  
+  <br/>
+  ✨ Generative AI &nbsp; | &nbsp; 🗣️ NLP
 </p>
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Platforms I Use
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</p>
+
+<p align="center"><b>VS Code • IntelliJ IDEA • Google Colab • Git • GitHub</b></p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Senbagarajan2807&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senbagarajan2807&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🗺️ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Senbagarajan2807&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senbagarajan2807&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🗺️ Contribution Map
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senbagarajan2807&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
-## 📫 Reach Me At
-
-- 📧 **senbagarajans2807@gmail.com**  
-- 💼 [LinkedIn – Senbagarajan S](https://www.linkedin.com/in/senbagarajan-s)
+- 📧 **Email:** senbagarajans2807@gmail.com  
+- 💼 **LinkedIn:** [Senbagarajan S](https://www.linkedin.com/in/senbagarajan-s)
 
 ---
 
-> _“Code every day, learn every day, grow every day.”_
+<div align="center">
+
+✨ *“Build skills. Build projects. Build impact.”* ✨  
+
+</div>
