@@ -15,8 +15,7 @@
 
 - 💻 Strong interest in **Backend Development & API Design**
 - 🧠 Actively learning and applying **AI, ML, DL, GenAI & NLP**
-- 🔁 Regularly practicing **DSA** for product-based companies
-- 🌱 Building real-world projects with **Spring Boot & Python**
+- 🌱 Building real-world projects with **Spring Boot, SQL & Java**
 - 🤝 Open to **internships, collaborations & open-source**
 
 ---
@@ -31,13 +30,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+---
+
+### ⚙️ Backend, Frameworks & Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
-<p align="center"><b>Spring • Spring Boot • REST APIs</b></p>
+<p align="center"><b>Spring • Spring Boot • REST APIs • SQL</b></p>
+
+---
 
 ### 🤖 AI / ML / Data
 <p align="center">
@@ -53,7 +56,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 </p>
