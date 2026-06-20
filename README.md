@@ -2,10 +2,10 @@
 
 # 👋 Hey, I'm **Senbagarajan S**
 
-🎓 **Third Year Computer Science Engineering Student**
+🎓 **Third-Year Computer Science Engineering Student**
 🏫 Government College of Engineering, Tirunelveli
 
-🚀 **Backend-Focused Developer | Java & Spring Boot | AI/ML Learner**
+🚀 **Backend Developer | Java & Spring Boot | AI/ML Learner**
 
 </div>
 
@@ -14,19 +14,19 @@
 ## 🚀 About Me
 
 * 💻 Focused on **Backend Development (Java + Spring Boot)**
-* ⚙️ Building scalable **REST APIs & real-world backend systems**
-* 🧠 Hands-on exposure to **Machine Learning, Deep Learning & NLP**
-* 🔍 Interested in **system design & high-scale architectures**
-* 🤝 Open to **internships, backend roles & collaborations**
+* ⚙️ Building **REST APIs & scalable backend systems**
+* 🧠 Working with **Machine Learning, Deep Learning & NLP (Foundations)**
+* 🔍 Interested in **System Design & High-Scale Architectures**
+* 🤝 Open to **Internships & Backend Opportunities**
 
 ---
 
 ## 🧠 Tech Stack & Skills
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css" />
 </p>
 
 ---
@@ -34,10 +34,10 @@
 ### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,postgresql" />
 </p>
 
-<p align="center"><b>Spring Boot • REST APIs • JPA/Hibernate • SQL</b></p>
+<p align="center"><b>Spring Boot • REST APIs • JPA/Hibernate • PostgreSQL</b></p>
 
 ---
 
@@ -65,6 +65,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48"/>
 </p>
 
 <p align="center"><b>VS Code • IntelliJ IDEA • Git • GitHub • Google Colab</b></p>
@@ -97,6 +98,6 @@
 
 <div align="center">
 
-🔥 *“I focus on building backend systems that actually scale.”*
+🔥 *“I build backend systems with clarity, structure, and scalability in mind.”*
 
 </div>
