@@ -15,7 +15,7 @@
 
 * 💻 Focused on **Backend Development (Java + Spring Boot)**
 * ⚙️ Building **REST APIs & scalable backend systems**
-* 🧠 Working with **Machine Learning, Deep Learning & NLP (Foundations)**
+* 🧠 Working with **Machine Learning, Deep Learning & NLP**
 * 🔍 Interested in **System Design & High-Scale Architectures**
 * 🤝 Open to **Internships & Backend Opportunities**
 
