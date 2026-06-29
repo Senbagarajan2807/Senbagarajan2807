@@ -34,7 +34,7 @@
 ### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,postgresql" />
+  <img src="https://skillicons.dev/icons?i=spring,springboot,postgresql" />
 </p>
 
 <p align="center"><b>Spring Boot • REST APIs • JPA/Hibernate • PostgreSQL</b></p>
